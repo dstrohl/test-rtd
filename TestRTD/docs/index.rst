@@ -16,7 +16,7 @@ Contents:
 Test
 
 .. automodule:: TestRTD.Clicker
-    :members:
+    :members: Clicker
 
 
 
