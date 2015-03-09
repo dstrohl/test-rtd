@@ -6,6 +6,7 @@ import sys
 # counter Class
 # ===============================================================================
 
+__all__ = ['Clicker']
 
 class ClickItem(object):
 
