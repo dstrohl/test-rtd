@@ -13,6 +13,9 @@ Contents:
 .. toctree::
    :maxdepth: 2
 
+.. automodule:: TestRTD.Clicker
+    :members:
+
 
 
 Indices and tables
