@@ -15,8 +15,8 @@ Contents:
 
 Test
 
-.. automodule:: TestRTD.Clicker
-    :members: Clicker
+.. autoclass:: TestRTD.Clicker.Clicker
+    :members:
 
 
 
